@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace DotNetFrameworkLib
 {
-    public class Class1
+    public class SampleClass
     {
+        public int DoStuff()
+        {
+            return 42;
+        }
     }
 }
