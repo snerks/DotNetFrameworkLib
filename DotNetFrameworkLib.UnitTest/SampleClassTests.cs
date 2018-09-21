@@ -19,7 +19,7 @@ namespace DotNetFrameworkLib.UnitTest
             var result = sut.DoStuff();
 
             // Assert
-            Assert.Equal(999, result);
+            Assert.Equal(42, result);
         }
     }
 }
